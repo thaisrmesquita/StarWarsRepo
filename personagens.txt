@@ -11,3 +11,4 @@ Han Solo
 Chewbacca
 Padmé Amidala
 Mace Windu
+Mestre Yoda
